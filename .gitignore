@@ -127,6 +127,7 @@ venv/
 ENV/
 env.bak/
 venv.bak/
+basic-ml-projects/
 
 # Spyder project settings
 .spyderproject
